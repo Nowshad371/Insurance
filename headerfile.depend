@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1603273963 source:c:\users\nawshad\desktop\c programming\headerfile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"_search.h"
+	"sub.h"
+
+1603273947 c:\users\nawshad\desktop\c programming\headerfile\_search.h
+
+1603273707 c:\users\nawshad\desktop\c programming\headerfile\sub.h
+
